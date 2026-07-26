@@ -95,15 +95,6 @@ Mapped some detections to the MITRE ATT&CK framework.
 
 ---
 
-# Future Plans
-
-* Add Active Directory
-* Add Microsoft Defender for Endpoint
-* Add Wazuh
-* Add Microsoft Sentinel
-
----
-
 # Conclusion
 
 This project helped me understand the basic work of a SOC Analyst. I learned how to collect logs, search events, investigate alerts, and create dashboards using Splunk.
